@@ -1,7 +1,7 @@
 🛒 Sistema de Gestión de Inventario (Consola)
 
-Este proyecto es una aplicación de consola desarrollada en Python que permite administrar productos de un inventario de manera simple y eficiente.
-Incluye funciones esenciales como registrar, visualizar, actualizar, eliminar y buscar productos, además de generar reportes.
+Este proyecto es una aplicación de consola desarrollada en Python, diseñada para administrar productos de un inventario de manera rápida y eficiente.
+Toda la información se almacena de forma persistente utilizando una base de datos SQLite3, ideal por su simplicidad y portabilidad.
 
 📌 Características principales
 
